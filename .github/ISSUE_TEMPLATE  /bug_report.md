@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
- - Last Window Quits version [e.g. 1.0]
+ - Taskbar version [e.g. 1.0]
  - OS: [e.g. macOS 13.3.1]
  - Chip [e.g. Apple M1]
 
