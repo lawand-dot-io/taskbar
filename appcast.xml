@@ -9,7 +9,7 @@
             <sparkle:version>1.0.8</sparkle:version>
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/lawand-dot-io/taskbar/main/release-notes.html</sparkle:releaseNotesLink>
+            <sparkle:releaseNotesLink>https://lawand-dot-io.github.io/taskbar/release-notes.html</sparkle:releaseNotesLink>
             <enclosure url="https://lawandio.files.wordpress.com/2024/03/taskbar-1.0.8-update.zip" length="9899094" type="application/octet-stream" sparkle:edSignature="j5L+UpIg9P7hT+IvrB4JgJqnZLQO8wFHmndduq0pyi7YauBI2VvAHjCMZkC2e5Qvf+ZzBSZ0T9SP/lhC6VqXDg=="/>
         </item>
     </channel>
