@@ -10,6 +10,7 @@
             <sparkle:shortVersionString>1.0.8 Self-Signed</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://lawand-dot-io.github.io/taskbar/release-notes-self-signed.html</sparkle:releaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://lawand.io/taskbar/release-notes/</sparkle:fullReleaseNotesLink>
             <enclosure url="https://lawandio.files.wordpress.com/2024/03/taskbar-1.0.8-self-signed-update.zip" length="9775061" type="application/octet-stream" sparkle:edSignature="0Vv7S4esOsFoffFjPciRNqKP5YGGFU1WZb8YzztO/RNdFA4YVrzShvwiXpiyBmPhE7Y0WeMSw87PwQHVcffaCQ=="/>
         </item>
         <item>
@@ -20,6 +21,7 @@
             <sparkle:shortVersionString>1.0.6 Self-Signed</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://lawand-dot-io.github.io/taskbar/release-notes-self-signed.html</sparkle:releaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://lawand.io/taskbar/release-notes/</sparkle:fullReleaseNotesLink>
             <enclosure url="https://lawandio.files.wordpress.com/2024/01/taskbar-1.0.6-self-signed-update.zip" length="9766525" type="application/octet-stream" sparkle:edSignature="+6+zd+/tbg5/RPb7NFAdKDDeagdqbbhvXrlLwl1qNumQN790GPAajhlpKJOzS+NV3/o9gBNawgOIILErGS9PBw=="/>
         </item>
     </channel>
