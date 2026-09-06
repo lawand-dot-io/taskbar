@@ -3,6 +3,17 @@
     <channel>
         <title>Taskbar</title>
         <item>
+            <title>1.6.3</title>
+            <link>https://lawand.io</link>
+            <pubDate>Sun, 06 Sep 2026 15:25:09 +0200</pubDate>
+            <sparkle:version>1.6.3</sparkle:version>
+            <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>10.13.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://lawand-dot-io.github.io/taskbar/release-notes.html</sparkle:releaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://lawand.io/taskbar/release-notes/</sparkle:fullReleaseNotesLink>
+            <enclosure url="https://lawand.io/wp-content/uploads/2026/09/taskbar-1.6.3.zip" length="10476447" type="application/octet-stream" sparkle:edSignature="xLwQbq/wLcvn0JwR/Ej8sGCNhfuHUXArICSV5VX+NGUUnZVbRvfuV+fQW7IH3V1TlNmkDnjy2Nl40BBIEgcwCg=="/>
+        </item>
+        <item>
             <title>1.6.1</title>
             <link>https://lawand.io</link>
             <pubDate>Wed, 27 May 2026 17:57:12 +0200</pubDate>
