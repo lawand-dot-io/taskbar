@@ -26,7 +26,6 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - Taskbar version [e.g. 1.0]
  - OS: [e.g. macOS 13.3.1]
- - Chip [e.g. Apple M1]
 
 **Additional context**
 Add any other context about the problem here.
